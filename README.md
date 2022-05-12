@@ -3,7 +3,7 @@ A revolutionized remake of the classic 2D arcade game, Breakout.
 
 <img width="231" alt="2022-05-11 (1)" src="https://user-images.githubusercontent.com/96029895/167984682-3f1c1e51-3f66-4768-95a3-7be38af6d642.png">
 
-This game is currently in development, with 14 levels of progressively increasing difficulty. The objective of the game is to use the paddle to control the trajectory of the ball, causing it to strike and destroy the bricks in each level. In this version of the game, there are two ways to lose: 1) allowing the ball to pass the paddle 5 times, and 2) allowing the paddle's health to be depleted. The paddle's health bar deteriorates by a constant amount each time it makes contact with the ball, and its condition must be maintained by using in-game currency to purchase repairs, enhancements, or upgrades.
+<a href="https://www.loom.com/share/b0bf340c65e543059781ffc3520e8257">This game</a> is currently in development, with 14 levels of progressively increasing difficulty. The objective of the game is to use the paddle to control the trajectory of the ball, causing it to strike and destroy the bricks in each level. In this version of the game, there are two ways to lose: 1) allowing the ball to pass the paddle 5 times, and 2) allowing the paddle's health to be depleted. The paddle's health bar deteriorates by a constant amount each time it makes contact with the ball, and its condition must be maintained by using in-game currency to purchase repairs, enhancements, or upgrades.
 
 # Implemented features
 
